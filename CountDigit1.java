@@ -26,7 +26,5 @@ public class CountDigit1
             num = num/10;
         }
         System.out.println("The count of digit of given number is: "+Count);
-
     }
-    
 }
