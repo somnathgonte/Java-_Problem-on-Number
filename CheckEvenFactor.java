@@ -1,5 +1,5 @@
 
-//Accept one number from user and find even factor of that number.
+//Accept one number from the user and find the even factor of that number.
 
 //Input: 36
 //Output: 2 6 12 18 
@@ -23,6 +23,4 @@ public class CheckEvenFactor
             start++;
         }
     }
-
-    
 }
