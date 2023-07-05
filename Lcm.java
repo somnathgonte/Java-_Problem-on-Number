@@ -20,9 +20,6 @@ public class Lcm
                 break;
             }
             large ++;
-            
-
         }
-    }
-    
+    } 
 }
